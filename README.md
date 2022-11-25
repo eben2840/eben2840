@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on **A Trip Allocator App**
 - 🌱 I’m currently learning **React,**
 - 👯 I’m looking to collaborate on **Mobile Development Apps**
-- 🤝 I’m looking for help with **Money!!**
 - 👨‍💻 All of my projects are available on my laptop, so dont steal it :))
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 - 📫 How to reach me **ebenmills200@gmail.com**
@@ -22,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eben2840&show_icons=true&locale=en&layout=compact" alt="eben2840" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eben2840&show_icons=true&locale=en" alt="eben2840" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eben2840&" alt="eben2840" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eben2840&show_icons=true&locale=en" alt="eben2840" /></p>
+<br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eben2840&" alt="eben2840" /></p>
