@@ -1,8 +1,5 @@
 
 <h1 align="left">Hi 👋, I'm Ebenezer Aggrey-Mills</h1>
-<h3 align="left">Just an Ordinary guy who wants to do extra</h3>
-
-
 - How to reach me **ebenmills200@gmail.com**
 
 
