@@ -3,11 +3,7 @@
 <h3 align="left">Just an Ordinary guy who wants to do extra</h3>
 
 
-
-
-- 👯 I’m looking to collaborate on **Mobile Development Apps**
-- 👨‍💻 All of my projects are available on my laptop, so don't steal it :))
-- 📫 How to reach me **ebenmills200@gmail.com**
+- How to reach me **ebenmills200@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
