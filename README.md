@@ -1,6 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Ebenezer Aggrey-Mills</h1>
-- How to reach me **ebenmills200@gmail.com**
+
+- How to reach me <b>ebenmills200@gmail.com</b>
 
 
 <h3 align="left">Connect with me:</h3>
